@@ -23,7 +23,7 @@ Warp-Plus-Go is an open-source implementation of Cloudflare's Warp, enhanced wit
 1. Clone the repository:
    ```bash
    git clone https://github.com/bepass-org/wireguard-go.git
-   cd warp-plus-go
+   cd wireguard-go
    ```
 
 2. Build the project:
@@ -36,7 +36,7 @@ Warp-Plus-Go is an open-source implementation of Cloudflare's Warp, enhanced wit
 Run the application with the following command:
 
 ```bash
-./warp-plus-go [-v] [-b addr:port] [-c config-file-path] [-e warp-ip] [-k license-key] [-country country-code] [-cfon] [-gool]
+./warp [-v] [-b addr:port] [-c config-file-path] [-e warp-ip] [-k license-key] [-country country-code] [-cfon] [-gool]
 ```
 
 - `-v`: Enable verbose logging.
