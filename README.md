@@ -30,6 +30,7 @@ Warp-Plus-Go is an open-source implementation of Cloudflare's Warp, enhanced wit
    ```bash
    go build
    ```
+for run in windows download => https://github.com/bepass-org/wireguard-go/releases/download/v1.0.4-rc2/warp-windows-386.b6d64e.zip extract and click on warp
 
 ### Usage
 
